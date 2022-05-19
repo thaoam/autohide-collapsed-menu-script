@@ -1,0 +1,1 @@
+# autohide-collapsed-menu-script
